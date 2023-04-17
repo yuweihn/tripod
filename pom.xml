@@ -49,7 +49,7 @@
         <slf4j.version>2.0.0</slf4j.version>
         <springboot.version>3.0.0</springboot.version>
         <spring.redis.version>3.0.0</spring.redis.version>
-        <spring.version>6.0.1</spring.version>
+        <spring.version>6.0.8</spring.version>
         <zookeeper.version>3.4.14</zookeeper.version>
         <zxing.version>3.3.0</zxing.version>
     </properties>
