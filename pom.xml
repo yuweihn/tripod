@@ -22,7 +22,7 @@
         <druid.version>1.2.0</druid.version>
         <fastjson2.version>2.0.8</fastjson2.version>
         <freemarker.version>2.3.28</freemarker.version>
-        <guava.version>31.1-jre</guava.version>
+        <guava.version>32.0.0-jre</guava.version>
         <hibernate.version>6.1.0.Final</hibernate.version>
         <httpclient.version>4.5.13</httpclient.version>
         <httpcore.version>4.4.9</httpcore.version>
